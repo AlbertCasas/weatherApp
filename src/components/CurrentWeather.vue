@@ -108,12 +108,12 @@ export default {
     .weather-icon {
         height: 100%;
         position: absolute;
-        right: -180px;
+        right: 0;
         display: flex;
         align-items: center;
 
         img{
-            width: 366px;
+            width: 183px;
             height: 366px;
         }
     }

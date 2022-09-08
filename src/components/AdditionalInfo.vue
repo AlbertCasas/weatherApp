@@ -34,7 +34,7 @@ export default {
     props: ["currentWeather"],
 
     created() {
-        console.log(this.currentWeather)
+        
     }
 }
 </script>

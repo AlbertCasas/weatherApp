@@ -22,7 +22,7 @@ export default {
   props: ['cities', "edit"],
 
   created(){
-    console.log(this.cities)
+    
   },
 
   methods: {
